@@ -2,6 +2,10 @@
 
 Este repositório tem como intuito representar meu portfolio de uma maneira descontraída e interativa. Usando com base a lib UI nes css.
 
+## Produção
+
+[Link](https://samuelfsd-porfolio.vercel.app/)
+
 ## Tech Stack
 
 - TypeScript
@@ -10,3 +14,9 @@ Este repositório tem como intuito representar meu portfolio de uma maneira desc
 - Tailwind CSS
 - Nes CSS
 - Deploy (Vercel)
+
+## Roadmap
+
+- [ ] Adicionar download do currículo
+- [ ] Adicionar animações
+- [ ] Adicionar footer
