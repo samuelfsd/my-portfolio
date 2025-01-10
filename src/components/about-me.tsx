@@ -34,9 +34,10 @@ export function AboutMe() {
             </Link>
           </div>
 
-          <button type="button" className="nes-btn is-primary">
+          {/* @TODO: add my cv to possible download */}
+          {/* <button type="button" className="nes-btn is-primary">
             Download my CV
-          </button>
+          </button> */}
         </div>
       </div>
 
