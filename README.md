@@ -6,8 +6,21 @@ Este repositório tem como intuito representar meu portfolio de uma maneira desc
 
 [Link](https://samuelfsd-porfolio.vercel.app/)
 
+## Como rodar ?
+
+Instale o projeto com o pnpm e execute!
+
+```bash
+  git clone // realize o clone do projeto ou baixe o .zip
+  cd my-project // entre na pasta do projeto
+
+  pnpm i my-project // instale as dependências
+  pnpm run dev // rode localmente
+```
+
 ## Tech Stack
 
+- JavaScript
 - TypeScript
 - React
 - Next
@@ -15,8 +28,9 @@ Este repositório tem como intuito representar meu portfolio de uma maneira desc
 - Nes CSS
 - Deploy (Vercel)
 
-## Roadmap
+## Roadmap final
 
+- [x] Adicionar suporte a responsividade
+- [x] Adicionar footer (copyright)
 - [ ] Adicionar download do currículo
 - [ ] Adicionar animações
-- [ ] Adicionar footer
