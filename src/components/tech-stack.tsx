@@ -3,8 +3,8 @@ export function TechStack() {
     <section className="flex flex-col gap-3 m-16">
       <div>
         <h3 className="mb-4 text-xl font-bold">Languages.</h3>
-        <div className="nes-container is-rounded">
-          <div className="grid grid-cols-4 gap-0">
+        <div className="nes-container is-rounded w-fit md:w-full">
+          <div className="md:grid-cols-4 grid grid-cols-1">
             <div className="nes-badge">
               <span className=" is-primary">JS/TS</span>
             </div>
@@ -23,8 +23,8 @@ export function TechStack() {
 
       <div>
         <h3 className="mb-4 text-xl font-bold">Back-End.</h3>
-        <div className="nes-container is-rounded">
-          <div className="grid grid-cols-4 gap-0">
+        <div className="nes-container is-rounded w-fit md:w-full">
+          <div className="md:grid-cols-4 grid grid-cols-1">
             <div className="nes-badge">
               <span className="is-success">Node</span>
             </div>
@@ -43,12 +43,12 @@ export function TechStack() {
 
       <div>
         <h3 className="mb-4 text-xl font-bold">Front-End.</h3>
-        <div className="nes-container is-rounded">
-          <div className="grid grid-cols-4 gap-0">
+        <div className="nes-container is-rounded w-fit md:w-full">
+          <div className="md:grid-cols-4 grid grid-cols-1">
             <div className="nes-badge">
               <span className="is-error">React</span>
             </div>
-            <div className="nes-badge w-[200px]">
+            <div className="nes-badge w-[165px]">
               <span className="is-success">React Native</span>
             </div>
             <div className="nes-badge">
@@ -63,8 +63,8 @@ export function TechStack() {
 
       <div>
         <h3 className="mb-4 text-xl font-bold">DevOps.</h3>
-        <div className="nes-container is-rounded">
-          <div className="grid grid-cols-4 gap-0">
+        <div className="nes-container is-rounded w-fit md:w-full">
+          <div className="md:grid-cols-4 grid grid-cols-1">
             <div className="nes-badge">
               <span className="is-warning">Docker</span>
             </div>

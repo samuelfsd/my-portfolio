@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 export function AboutMe() {
   return (
-    <section className="flex items-center justify-around gap-8 mx-16 mt-32">
-      <div className="nes-container is-rounded flex flex-col justify-between lg:h-[430px] w-fit">
+    <section className="md:gap-8 md:justify-around md:flex-row flex flex-col items-center gap-16 mx-16 mt-32">
+      <div className="nes-container is-rounded flex flex-col justify-between lg:h-[430px] w-fit gap-8">
         <div className="lists">
           <ul className="nes-list is-disc flex flex-col gap-4">
             <li>
