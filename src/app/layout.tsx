@@ -4,6 +4,7 @@ import 'nes.css/css/nes.min.css';
 
 import './globals.css';
 import { Header } from '@/components/header';
+import { Footer } from '@/components/footer';
 
 const pressStart2P = Press_Start_2P({ weight: '400', subsets: ['latin'] });
 
@@ -21,10 +22,10 @@ export default function RootLayout({
     <html lang="pt-BR">
       <link rel="icon" href="favicon.ico" sizes="any" />
       <body className={pressStart2P.className}>
-        <div className="flex flex-col min-h-screen">
+        <div className="flex flex-col h-screen">
           <Header />
-
           {children}
+          <Footer />
         </div>
       </body>
     </html>
