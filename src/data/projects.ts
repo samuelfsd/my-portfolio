@@ -5,7 +5,7 @@ export const projectsData = [
   },
   {
     title: 'clean arch todo',
-    dir: 'https://samuelfsd.github.io/clean-arch-todoapp/'
+    dir: 'https://clean-arch-todoapp.pages.dev/'
   },
   {
     title: 'knex company',
