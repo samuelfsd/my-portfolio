@@ -1,10 +1,6 @@
 ## Meu Portfolio
 
-Este repositório tem como intuito representar meu portfolio de uma maneira descontraída e interativa. Usando com base a lib UI nes css.
-
-## Produção
-
-[Link](https://samuelfsd-porfolio.vercel.app/)
+Portfólio pessoal minimalista [Link](https://samuelfsd-porfolio.vercel.app/).
 
 ## Como rodar ?
 
@@ -14,18 +10,20 @@ Instale o projeto com o pnpm e execute!
   git clone // realize o clone do projeto ou baixe o .zip
   cd my-project // entre na pasta do projeto
 
-  pnpm i my-project // instale as dependências
+  pnpm i // instale as dependências
   pnpm run dev // rode localmente
 ```
 
 ## Tech Stack
 
-- JavaScript
 - TypeScript
-- React
-- Next
-- Tailwind CSS
-- Nes CSS
+- React 19
+- Next.js 16
+- Tailwind CSS 4
+- HeroUI v3
+- Motion
+- next-intl (i18n pt/en)
+- Biome (lint + format)
 - Deploy (Vercel)
 
 ## Roadmap final
@@ -33,4 +31,5 @@ Instale o projeto com o pnpm e execute!
 - [x] Adicionar suporte a responsividade
 - [x] Adicionar footer (copyright)
 - [ ] Adicionar download do currículo
-- [ ] Adicionar animações
+- [x] Adicionar animações
+- [x] Suporte a português e inglês
