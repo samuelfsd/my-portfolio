@@ -1,6 +1,11 @@
 # Build scripts of dependencies must be explicitly allowed or denied (pnpm 10+).
 # Both come from next-intl's optional message extractor, which this project
 # doesn't use; they ship prebuilt binaries, so their install scripts aren't needed.
+# `packages` is required by older pnpm versions (e.g. Vercel's pnpm 9),
+# which treat this file as a workspace definition.
+packages:
+  - "."
+
 allowBuilds:
   "@parcel/watcher": false
   "@swc/core": false
