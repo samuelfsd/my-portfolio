@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Samuel Medeiros — Engenheiro de Software",
+    "description": "Portfólio de Samuel Medeiros, engenheiro de software."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "work": "Projetos",
+    "contact": "Contato",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "language": "Idioma"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "Samuel Medeiros",
+    "role": "Engenheiro de software",
+    "summary": "Desenvolvo software profissionalmente há mais de 4 anos. Mestrando em ciência da computação, com foco em sistemas de informação e bancos de dados.",
+    "ctaWork": "Ver projetos",
+    "ctaContact": "Fale comigo"
+  },
+  "about": {
+    "title": "Sobre",
+    "bio": [
+      "Sou o Samuel, tenho 24 anos, amo futebol e o Botafogo e sou entusiasta de tecnologia.",
+      "Formado em ciência da computação e mestrando em ciência da computação, com foco em sistemas de informação e bancos de dados.",
+      "Trabalho profissionalmente como engenheiro de software há mais de 3 anos."
+    ],
+    "stackTitle": "Stack",
+    "stack": {
+      "languages": "Linguagens",
+      "backend": "Back-End",
+      "frontend": "Front-End",
+      "devops": "DevOps"
+    }
+  },
+  "projects": {
+    "title": "Projetos selecionados",
+    "subtitle": "Produtos, código aberto e estudos em que trabalhei.",
+    "visit": "Acessar projeto",
+    "kinds": {
+      "research": "Pesquisa",
+      "product": "Produto",
+      "openSource": "Código aberto",
+      "organization": "Organização",
+      "study": "Estudo"
+    },
+    "items": {
+      "spatialFairness": "Projeto de mestrado: workflow para auditar justiça espacial (spatial fairness), comparando regiões de varredura quadradas com regiões orgânicas detectadas por HDBSCAN."
+    }
+  },
+  "contact": {
+    "title": "Vamos conversar",
+    "text": "Tem um projeto em mente ou só quer dar um oi? Minha caixa de entrada está sempre aberta."
+  },
+  "footer": {
+    "rights": "© {year} Samuel Medeiros. Todos os direitos reservados."
+  }
+}
