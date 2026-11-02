@@ -1,12 +1,21 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@import "@heroui/styles";
 
+@theme {
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-background text-foreground font-sans antialiased;
+}
+
+/* Monochrome accent: HeroUI's primary buttons, focus rings, etc. render black */
 :root {
-  --white: #fbf5ef;
-  --yellow: #f2d3ab;
-  --pink: #c69fa5;
-  --purple: #8b6d9c;
-  --blue: #494d7e;
-  --dark-blue: #272744;
+  --accent: oklch(0 0 0);
+  --accent-foreground: oklch(1 0 0);
 }
