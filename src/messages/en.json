@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Samuel Medeiros — Software Engineer",
-    "description": "Portfolio of Samuel Medeiros, software engineer."
+    "description": "Portfolio of Samuel Medeiros, software engineer focused on Java and C# back-end and React and React Native front-end."
   },
   "nav": {
     "home": "Home",
@@ -16,7 +16,7 @@
     "greeting": "Hello, I'm",
     "name": "Samuel Medeiros",
     "role": "Software engineer",
-    "summary": "Building software professionally for over 4 years. Master's student in computer science, focused on information systems and databases.",
+    "summary": "Over 4 years of experience building software, from planning to production. Computer scientist, currently pursuing a master's degree.",
     "ctaWork": "View work",
     "ctaContact": "Contact me"
   },
@@ -25,7 +25,8 @@
     "bio": [
       "I'm Samuel, 24 years old, I love soccer and Botafogo, and I'm a technology enthusiast.",
       "Computer science graduate and master's student in computer science, focusing on information systems and databases.",
-      "I've been working professionally as a software engineer for over 3 years."
+      "I've been working as a software engineer for over 4 years, mostly on the back-end with Java and C# and on the front-end and mobile with React and React Native.",
+      "I've also worked on AI projects, and I use AI and agents in my day-to-day development workflow."
     ],
     "stackTitle": "Stack",
     "stack": {

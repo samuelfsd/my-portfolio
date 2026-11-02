@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Samuel Medeiros — Engenheiro de Software",
-    "description": "Portfólio de Samuel Medeiros, engenheiro de software."
+    "description": "Portfólio de Samuel Medeiros, engenheiro de software com foco em back-end Java e C# e front-end React e React Native."
   },
   "nav": {
     "home": "Início",
@@ -16,7 +16,7 @@
     "greeting": "Olá, eu sou",
     "name": "Samuel Medeiros",
     "role": "Engenheiro de software",
-    "summary": "Desenvolvo software profissionalmente há mais de 4 anos. Mestrando em ciência da computação, com foco em sistemas de informação e bancos de dados.",
+    "summary": "Mais de 4 anos de experiência construindo software, do planejamento à produção. Cientista da computação e atualmente no mestrado.",
     "ctaWork": "Ver projetos",
     "ctaContact": "Fale comigo"
   },
@@ -25,7 +25,8 @@
     "bio": [
       "Sou o Samuel, tenho 24 anos, amo futebol e o Botafogo e sou entusiasta de tecnologia.",
       "Formado em ciência da computação e mestrando em ciência da computação, com foco em sistemas de informação e bancos de dados.",
-      "Trabalho profissionalmente como engenheiro de software há mais de 3 anos."
+      "Trabalho como engenheiro de software há mais de 4 anos, principalmente no back-end com Java e C# e no front-end e mobile com React e React Native.",
+      "Também já trabalhei em projetos com IA e uso IA e agentes no meu fluxo de desenvolvimento no dia a dia."
     ],
     "stackTitle": "Stack",
     "stack": {
