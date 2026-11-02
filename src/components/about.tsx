@@ -38,8 +38,12 @@ export function About() {
               <p className="mb-3 font-medium">{t(`stack.${group.key}`)}</p>
               <div className="flex flex-wrap gap-2">
                 {group.items.map((tech) => (
-                  <Chip key={tech} variant="secondary">
-                    {tech}
+                  <Chip
+                    key={tech.name}
+                    color={tech.main ? 'accent' : 'default'}
+                    variant={tech.main ? 'primary' : 'secondary'}
+                  >
+                    {tech.name}
                   </Chip>
                 ))}
               </div>

@@ -1,6 +1,6 @@
 ## Meu Portfolio
 
-Portfólio pessoal minimalista [Link](https://samuelfsd-porfolio.vercel.app/).
+Portfólio pessoal minimalista [samuelfsd.com.br](https://www.samuelfsd.com.br/).
 
 ## Como rodar ?
 
