@@ -1,0 +1,6 @@
+# Build scripts of dependencies must be explicitly allowed or denied (pnpm 10+).
+# Both come from next-intl's optional message extractor, which this project
+# doesn't use; they ship prebuilt binaries, so their install scripts aren't needed.
+allowBuilds:
+  "@parcel/watcher": false
+  "@swc/core": false

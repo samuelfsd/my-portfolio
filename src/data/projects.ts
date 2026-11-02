@@ -1,26 +1,19 @@
-export const projectsData = [
+// `id` maps to `projects.items.<id>` and `kind` to `projects.kinds.<kind>`
+// in src/messages/*.json
+export type Project = {
+  id: string;
+  title: string;
+  url: string;
+  kind: 'research' | 'product' | 'openSource' | 'organization' | 'study';
+  tech: string[];
+};
+
+export const projectsData: Project[] = [
   {
-    title: 'event flow',
-    dir: 'https://eventflow.com.br/'
-  },
-  {
-    title: 'clean arch todo',
-    dir: 'https://clean-arch-todoapp.pages.dev/'
-  },
-  {
-    title: 'knex company',
-    dir: 'https://github.com/knex-projects'
-  },
-  {
-    title: 'data structure',
-    dir: 'https://github.com/samuelfsd/data-structure'
-  },
-  {
-    title: 'how to tests',
-    dir: 'https://github.com/samuelfsd/how-to-test'
-  },
-  {
-    title: 'theme control',
-    dir: 'https://github.com/samuelfsd/theme-control'
+    id: 'spatialFairness',
+    title: 'Spatial Fairness Workflow',
+    url: 'https://github.com/samuelfsd/workflow-spatial-fairness',
+    kind: 'research',
+    tech: ['Python', 'scikit-learn', 'HDBSCAN', 'pandas', 'Folium']
   }
 ];

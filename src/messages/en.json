@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Samuel Medeiros — Software Engineer",
+    "description": "Portfolio of Samuel Medeiros, software engineer."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "work": "Work",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Samuel Medeiros",
+    "role": "Software engineer",
+    "summary": "Building software professionally for over 4 years. Master's student in computer science, focused on information systems and databases.",
+    "ctaWork": "View work",
+    "ctaContact": "Contact me"
+  },
+  "about": {
+    "title": "About",
+    "bio": [
+      "I'm Samuel, 24 years old, I love soccer and Botafogo, and I'm a technology enthusiast.",
+      "Computer science graduate and master's student in computer science, focusing on information systems and databases.",
+      "I've been working professionally as a software engineer for over 3 years."
+    ],
+    "stackTitle": "Stack",
+    "stack": {
+      "languages": "Languages",
+      "backend": "Back-End",
+      "frontend": "Front-End",
+      "devops": "DevOps"
+    }
+  },
+  "projects": {
+    "title": "Selected work",
+    "subtitle": "Products, open source and studies I've worked on.",
+    "visit": "Visit project",
+    "kinds": {
+      "research": "Research",
+      "product": "Product",
+      "openSource": "Open source",
+      "organization": "Organization",
+      "study": "Study"
+    },
+    "items": {
+      "spatialFairness": "Master's research project: a workflow for auditing spatial fairness, comparing square scan regions with organic, density-based regions found by HDBSCAN."
+    }
+  },
+  "contact": {
+    "title": "Let's talk",
+    "text": "Have a project in mind or just want to say hi? My inbox is always open."
+  },
+  "footer": {
+    "rights": "© {year} Samuel Medeiros. All rights reserved."
+  }
+}
